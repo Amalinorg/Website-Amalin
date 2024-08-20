@@ -1,0 +1,19 @@
+[
+    {
+      "title": "Bantu Pendidikan Anak",
+      "description": "Donasi untuk mendukung pendidikan anak-anak kurang mampu.",
+      "image": "img/campaign-1.jpg",
+      "category": "Pendidikan",
+      "location": "Jakarta, Indonesia",
+      "target": "Rp 100.000.000"
+    },
+    {
+      "title": "Bantuan Bencana Alam",
+      "description": "Membantu korban bencana alam dengan menyediakan kebutuhan pokok.",
+      "image": "img/campaign-2.jpg",
+      "category": "Bencana Alam",
+      "location": "Lombok, Indonesia",
+      "target": "Rp 200.000.000"
+    }
+  ]
+  
